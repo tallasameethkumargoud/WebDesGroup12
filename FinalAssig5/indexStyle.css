@@ -3,6 +3,19 @@
     --pink:#824a5a;
 }
 
+        /* Center the alert like a popup */
+        #confirmation-alert {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            z-index: 1050;
+            display: none; /* Hidden initially */
+            width: 50%;
+            text-align: center;
+        }
+    
+
 
 *{
     font-family: 'Nunito',sans-serif;
