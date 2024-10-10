@@ -89,7 +89,7 @@ header .navbar a:hover {
 }
 
 header .navbar a:hover {
-    color: var(--pink); /* Change to your custom hover color */
+    color: var(--pink); 
 }
 
 /* Style for icons in the nav */
@@ -102,7 +102,7 @@ header .navbar a:hover {
 
 /* Hover effect for icons */
 .nav-icon:hover {
-    color: var(--pink); /* Change to your custom hover color */
+    color: var(--pink); 
 }
 
 section {
